@@ -31,7 +31,7 @@
 PVER=0.151002
 
 # Which server to fetch files from
-MIRROR=mirrors.omniti.com
+MIRROR=mirror.zero-knowledge.org
 
 # Default prefix for packages (may be overridden)
 PREFIX=/usr
